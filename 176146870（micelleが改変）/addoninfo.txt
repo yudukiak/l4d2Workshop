@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	AddonTitle          "Cutie Mark Crusader's Flag (micelle)"
+	AddonVersion        "1.0"
+     	addontagline        " "
+	AddonAuthor         "Splinks/Lucy fur (micelle)"
+	AddonAuthorSteamID  "micelle"
+	addonDescription    "YAY Cutie Mark Crusaders SKULL BASHING! (micelle)"
+	AddonSteamAppID  550
+}

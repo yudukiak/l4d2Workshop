@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Ah^~ I'm hopping by tank^~" 
+addonversion "1.1"
+addontagline "Check out http://prfac.com/"
+addonauthor "micelle"
+addonURL0 "http://prfac.com/"
+addonDescription "Check out http://prfac.com/"
+}

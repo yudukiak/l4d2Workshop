@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+$basetexture "vgui/Left4Dead2Logo"
+$translucent 1
+$alpha 0.5
+$ignorez 1
+$additive 0
+$no_fullbright 1
+}

@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "kancolle BGM" 
+addonversion "5.0"
+addontagline ""
+addonauthor "micelle"
+addonURL0 ""
+addonDescription ""
+}
